@@ -20,6 +20,7 @@ en cada uno de mis proyectos. 😀
 🛹 &nbsp; Redes sociales
 
 [<img src="https://img.shields.io/badge/builtbybit-%231DA1F2.svg?&style=for-the-badge&logo=google&logoColor=white" />](https://builtbybit.com/members/itzpipeg.266854/)
+[<img src="https://img.shields.io/badge/portafolio-%231DA1F2.svg?&style=for-the-badge&logo=google&logoColor=white" />](https://andrew-2.gitbook.io/portafolio)
 
 <hr>
 
