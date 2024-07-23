@@ -20,7 +20,7 @@ Soy Andrew, un desarrollador y configurador por gusto y hobby.
 
 ### 🛠 &nbsp; Habilidades
 
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=40> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> |
+|<img src="https://camo.githubusercontent.com/d94d6e8e534fe88023c71482f7e9c90a38b1f2d3e760dff3463eac593753bace/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d766572746963616c2e737667" width=40> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://camo.githubusercontent.com/68a9de9ef11c5270a343ec89f2516dd3d1f514bf9fe24d8e38bc5b1224cfcfa2/68747470733a2f2f7777772e766563746f726c6f676f732f7068702f7068702d617232312e737667" width=40> | <img src="https://camo.githubusercontent.com/842373051212a9c9c61fe72b9d636b2e7ed06f89120e8322ea5e67d01857cff8/68747470733a2f2f7777772e766563746f726c6f676f732f6d7973716c2f6d7973716c2d617232312e737667" width="40"> |
 |:-:|:-:|:-:|:-:|
 
 <hr>
