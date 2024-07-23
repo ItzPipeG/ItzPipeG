@@ -1,7 +1,7 @@
 <p align="center">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
  <p/>
-<h1 align="center"> ¡Hola! <img src="https://github.com/ItzPipeG/ItzPipeG/images/bannerandrew.png" width="28px" alt="hi"></h1>
+<h1 align="center"> ¡Hola! <img src="https://github.com/ItzPipeG/ItzPipeG/blob/main/images/bannerandrew.png" width="28px" alt="hi"></h1>
 
 Soy Andrew, un desarrollador y configurador por gusto y hobby.
 
