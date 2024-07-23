@@ -19,8 +19,7 @@ en cada uno de mis proyectos. 😀
 
 🛹 &nbsp; Redes sociales
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/navodya-pasqual-11ba801b1/)
-[<img src="https://img.shields.io/badge/builtbybit-%231DA1F2.svg?&style=for-the-badge&logo=chrome&logoColor=white" />](https://builtbybit.com/members/itzpipeg.266854/)
+[<img src="https://img.shields.io/badge/builtbybit-%231DA1F2.svg?&style=for-the-badge&logo=google&logoColor=white" />](https://builtbybit.com/members/itzpipeg.266854/)
 
 <hr>
 
