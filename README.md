@@ -5,9 +5,9 @@
 
 Soy Andrew, un desarrollador/programador por gusto y hobby.
 
-Me apasiona lo que hago, busco siempre mejorar y adquirir nuevos conocimientos.
-Aunque, principalmente en lo que me destaco es la dedicación y el perfeccionismo que busco
-en cada uno de mis proyectos. ☺
+Me apasiona lo que hago, busco siempre mejorar y adquirir nuevos conocimientos.                                                                                          
+Aunque, principalmente en lo que me destaco es la dedicación y el perfeccionismo que busco                                                                                          
+en cada uno de mis proyectos. ☺                                                                                          
 
 <!-- TODO: Add last video link -->
 
